@@ -1,0 +1,5 @@
+br\unibh\sdm\entidade\Agendamento.class
+br\unibh\sdm\negocio\AgendamentoService.class
+br\unibh\sdm\persistencia\AgendamentoRepository.class
+br\unibh\sdm\rest\AgendamentoController.class
+br\unibh\sdm\Application.class

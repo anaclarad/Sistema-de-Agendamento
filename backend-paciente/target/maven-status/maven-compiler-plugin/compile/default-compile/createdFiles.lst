@@ -1,0 +1,6 @@
+br\unibh\sdm\persistencia\PacienteRepository.class
+br\unibh\sdm\persistencia\DynamoDBConfig.class
+br\unibh\sdm\rest\PacienteController.class
+br\unibh\sdm\entidade\Paciente.class
+br\unibh\sdm\Application.class
+br\unibh\sdm\negocio\PacienteService.class
